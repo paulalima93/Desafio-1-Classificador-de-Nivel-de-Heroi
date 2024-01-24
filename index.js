@@ -1,4 +1,4 @@
-let nome = "Link"
+let nome = "Thanos"
 let XP = 1
 let level = ""
 if (XP < 1000) {
